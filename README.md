@@ -1,6 +1,6 @@
-# 📊 Store Data Analysis Dashboard (Excel Project)
+# 📊 Retail Store Sales and Customer Behaviour Analysis (Excel Project)
 
-This project presents a comprehensive **Store Data Analysis Dashboard** built entirely in **Microsoft Excel** using Pivot Tables, Pivot Charts, and Slicers. The dashboard provides interactive insights into customer demographics, product categories, sales performance, and order outcomes.
+This project presents a comprehensive **Retail Store Sales and Customer Behaviour Analysis** built entirely in **Microsoft Excel** using Pivot Tables, Pivot Charts, and Slicers. The dashboard provides interactive insights into customer demographics, product categories, sales performance, and order outcomes.
 
 ---
 
